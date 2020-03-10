@@ -1,7 +1,14 @@
 # Eric Bishard Talks and Conferences
 
-I'm Eric Bishard, a developer advocate for Couchbase. We are an enterpise NoSQL
-database. Making the career change to developer advocate after nearly 20 years as a developer, I have had the great opportunity to do some traveling and speak at some amazing conferences. Below is a short list of events I have been a part of through speaking as well as hosting and support thorugh workshops and hackathons.
+I currently working as a developer advocate for Couchbase, an enterpise NoSQL database. But I have not always been a developer advocate or had the chance to get in front of anyone and talk about technology.
+
+I got started with a meetup I ran at Tesla out of their 901 Page building back in late 2017 and early 2018. It was a private meetup for the most part, but still managed to pull 50 to 100 attendees in person and online as we streamed the event for those not able to attend in person.
+
+Running that meetup and starting to network in the San Francisco, Silicon Valley and East Bay JavaScript communities helped me understand that I could do the job and in the summer of 2018 Tesla had a massive amount of layoffs, including me. This was the beginning of my devrel career.
+
+I made the change to developer advocate after nearly 20 years as a developer. Progress software and the Kendo React team specifically took a chance on a new devrel and I think we had a great run spanning a little over one year. Between October 2018 and October of 2019 I not only traveled outside of the country for the first time but I traveled more than I ever had in my life, ten fold.
+
+I visited cities like Chicago, Salt Lake City, Orlando, Amsterdam, Munich, Warsaw, Paris, Sofia (threee times) and oh yeah ... Boston. Wit this career, I have had the great opportunity to do some amazing traveling and speak at some wonderful conferences and see many beautiful cities at the same time. Below is a short list of events I have been a part of through speaking as well as hosting and support thorugh workshops and hackathons.
 
 ## 2020 Engagements
 
