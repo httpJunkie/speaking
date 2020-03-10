@@ -1,14 +1,16 @@
 # Eric Bishard Talks and Conferences
 
-I currently work as a developer advocate for Couchbase, an enterpise NoSQL database solution. But I have not always been a developer advocate or had the chance to get in front of anyone and talk about technology.
+Currently working as a senior developer advocate for Couchbase, an enterprise NoSQL database server.
 
-I got started with a meetup I ran at Tesla out of their 901 Page building back in late 2017 and early 2018. It was a private meetup for the most part, but still managed to pull 50 to 100 attendees in person and online as we streamed the event for those not able to attend in person.
+I got started with developer relations as an engineer while hosting a frontend meetup at Tesla in Fremont, our offices just about a mile away from the factory. As part of this event, I took folks like the Angular team on a factory tour and had them and others come to speak at the meetup. This was late 2017, early 2018. The meetup drew approximately 60 to 70 attendees each month, in-person and online. We had speakers mostly associated with the Angular and JavaScript communities.
 
-Running that meetup and starting to network in the San Francisco, Silicon Valley and East Bay JavaScript communities helped me understand that I could do the job and in the summer of 2018 Tesla had a massive amount of layoffs, including me. This was the beginning of my devrel career.
+Running that meetup and starting to network in the San Francisco Bay area JavaScript communities helped me gain the experience needed to feel confident even applying for a developer relations position. Luckily in the summer of 2018, Tesla had a massive amount of layoffs. One door closed and another one opened and this was the beginning of my developer relations career.
 
-I made the change to developer advocate after nearly 20 years as a developer. Progress software and the Kendo React team specifically took a chance on a new devrel and I think we had a great run spanning a little over one year. Between October 2018 and October of 2019 I not only traveled outside of the country for the first time but I traveled more than I ever had in my life, ten fold.
+I made the change to developer advocate and joined Progress Software, the Kendo React team specifically. In October of 2018, I took a flight from Chicago to Munich and this would be the first time I ever used a passport or traveled outside of the country. Over the next year, I traveled more than I ever had in my life, tenfold and networked with some of the most amazing developers and conference organizers in the US and Europe. This was hugely beneficial to me, but I had taken a pay cut to get this opportunity and it was a rough year for sure, but one I will never forget.
 
-I visited cities like Chicago, Salt Lake City, Orlando, Amsterdam, Munich, Warsaw, Paris, Sofia (threee times) and oh yeah ... Boston. Wit this career, I have had the great opportunity to do some amazing traveling and speak at some wonderful conferences and see many beautiful cities at the same time. Below is a short list of events I have been a part of through speaking as well as hosting and support thorugh workshops and hackathons.
+I have since had the opportunity to visit cities like Chicago, Salt Lake City, Orlando, Atlanta, Amsterdam, Munich, Warsaw, Paris, Sofia (three times, I love that place) and oh yeah ... Boston. 
+
+Below is a list of events I have been or will be a part of through speaking, hosting and/or support through workshops and hack-a-thons.
 
 ## 2020 Engagements
 
