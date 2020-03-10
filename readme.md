@@ -1,6 +1,6 @@
 # Eric Bishard Talks and Conferences
 
-I currently working as a developer advocate for Couchbase, an enterpise NoSQL database. But I have not always been a developer advocate or had the chance to get in front of anyone and talk about technology.
+I currently work as a developer advocate for Couchbase, an enterpise NoSQL database solution. But I have not always been a developer advocate or had the chance to get in front of anyone and talk about technology.
 
 I got started with a meetup I ran at Tesla out of their 901 Page building back in late 2017 and early 2018. It was a private meetup for the most part, but still managed to pull 50 to 100 attendees in person and online as we streamed the event for those not able to attend in person.
 
